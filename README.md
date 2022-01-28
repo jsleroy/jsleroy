@@ -1,5 +1,5 @@
-<p style="text-align: center;">### Hi 👋, I'm Jean</p>
+<p style="text-align: center;">Hi 👋, I'm Jean</p>
 
-[<img src="https://simpleicons.org/icons/c.svg">](<LINK>)
+![Python](https://img.shields.io/badge/-python-lightgrey?style=for-the-badge&logo=python)
 
 ![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsleroy&show_icons=true&theme=vue)
